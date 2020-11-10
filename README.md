@@ -1,13 +1,13 @@
 ![Jon GitHub profile page image](https://github.com/JonR45/JonR45/blob/master/Images/GitHub%20Profile.png)
 
-## 👋 Hello! I'm Jon... How did I get here:interrobang:
+## Hello! 👋  I'm Jon... How did I get here:interrobang:
 * Before I started my data science journey I owned a successful fitness business :runner: 
 * Tracking my website and digital marketing KPIs gave me a taste for data analytics :chart_with_upwards_trend: 
 * I found the process of tracking and analysing data fascinating and soon started taking courses on statistics, data analysis and data visualisation :bar_chart: 
 * I implemented a data driven approach to drive continuous improvements in my business. The results were excellent; business performance and client achievement went up and up :arrow_up: 
 * I decided data analytics was my future and enrolled on a Data Science course :books: ... which brings us to now...
 
-## :taxi: Where am I going:interrobang:
+## Where am I going:interrobang: :taxi: 
 * I'm looking for opportunities in data science, data analysis and data visualisation :loudspeaker: 
 
 * I have lots of experience in gleaning insight from data and using it to enhance business performance, streamline processes and improve customer service :briefcase:
@@ -23,7 +23,7 @@
 * Tableau
 * Excel
 
-## :muscle: Strongest Skills
+## Strongest Skills :muscle: 
 :busts_in_silhouette: Relationship Building
 
 :speech_balloon: Communication
