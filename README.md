@@ -1,4 +1,39 @@
-### Hi there 👋 :smiley:
+![Jon GitHub profile page image](https://github.com/JonR45/JonR45/blob/master/Images/GitHub%20Profile.png)
+
+## 👋 Hello! I'm Jon... :interrobang: How did I get here!?
+:runner: Before I started my data science journey I owned a successful fitness business
+:chart_with_upwards_trend: Tracking my website and digital marketing KPIs gave me a taste for data analytics
+:bar_chart: I found the process of tracking and analysing data fascinating and soon started taking courses on statistics, data analysis and data visualisation. 
+:arrow_up: I implemented a data driven approach to drive continuous improvements in my business. The results were excellent; business performance and client achievement went up and up
+:books: I decided data analytics was my future and enrolled on a Data Science course... which brings us to now...
+
+## :question: Where am I going!?
+:loudspeaker: I'm looking for opportunities in data science, data analysis and data visualisation
+:briefcase: I have lots of experience in gleaning insight from data and using it to enhance business performance, streamline processes and improve customer service 
+:hospital: With my background in exercise and fitness I'd love to use data science to help improve the nation's health, healthcare services and education surrounding exercise and fitness
+:globe_with_meridians: I'm also fascinated by how data science impacts digital marketing, business performance, retail, the environment, and the day to day functioning of society, so projects in these areas also interest me very much
+:mag_right: I've completed several data science projects and I'm working on more, with a view to specialising in machine learning.
+:email: I'm open to new opportunities so don't hesitate to get in touch :smiley:
+
+## :wrench: Tools and Technologies :computer:
+Python
+R
+SQL
+Tableau
+Excel
+
+## Strongest Skills
+:busts_in_silhouette: Relationship Building
+:speech_balloon: Interpersonal and Communication
+:soccer: Teamwork
+:1234: Problem Solving
+
+## Fun Facts
+:muscle: I also coordinated fitness programs for the US Marine Corps on the largest Marine Corps base in the USA, tracked and analysed data related to individual and program success, led presentations and workshops.
+
+
+## Thanks for reading, feel free to get in touch! 
+
 
 <!--
 **JonR45/JonR45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
