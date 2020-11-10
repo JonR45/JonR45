@@ -1,6 +1,6 @@
 ![Jon GitHub profile page image](https://github.com/JonR45/JonR45/blob/master/Images/GitHub%20Profile.png)
 
-## Hello! I'm Jon 👋 ...  How did I get here:interrobang:
+## 👋 Hello! I'm Jon... How did I get here:interrobang:
 * Before I started my data science journey I owned a successful fitness business :runner: 
 * Tracking my website and digital marketing KPIs gave me a taste for data analytics :chart_with_upwards_trend: 
 * I found the process of tracking and analysing data fascinating and soon started taking courses on statistics, data analysis and data visualisation :bar_chart: 
@@ -23,14 +23,14 @@
 * Tableau
 * Excel
 
-## Strongest Skills
+## :muscle: Strongest Skills
 :busts_in_silhouette: Relationship Building
 
-:speech_balloon: Interpersonal and Communication
+:speech_balloon: Communication
 
 :soccer: Teamwork
 
-:1234: Problem Solving
+:heavy_division_sign: Problem Solving
 
 ## Fun Facts
 :muscle: I also coordinated fitness programs for the US Marine Corps on the largest Marine Corps base in the USA, tracked and analysed data related to individual and program success, led presentations and workshops.
