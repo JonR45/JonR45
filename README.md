@@ -8,28 +8,20 @@
 * I decided data analytics was my future and enrolled on a Data Science course :books: ... which brings us to now...
 
 ## :question: Where am I going!?
-:loudspeaker: I'm looking for opportunities in data science, data analysis and data visualisation
+* I'm looking for opportunities in data science, data analysis and data visualisation :loudspeaker: 
 
-:briefcase: I have lots of experience in gleaning insight from data and using it to enhance business performance, streamline processes and improve customer service
-
-:hospital: With my background in exercise and fitness I'd love to use data science to help improve the nation's health, healthcare services and education surrounding exercise and fitness
-
-:globe_with_meridians: I'm also fascinated by how data science impacts digital marketing, business performance, retail, the environment, and the day to day functioning of society, so projects in these areas also interest me very much
-
-:mag_right: I've completed several data science projects and I'm working on more, with a view to specialising in machine learning.
-
-:email: I'm open to new opportunities so don't hesitate to get in touch :smiley:
+* I have lots of experience in gleaning insight from data and using it to enhance business performance, streamline processes and improve customer service :briefcase:
+* With my background in exercise and fitness I'd love to use data science to help improve the nation's health, healthcare services and education surrounding exercise and fitness :hospital: 
+* I'm also fascinated by how data science impacts digital marketing, business performance, retail, the environment, and the day to day functioning of society, so projects in these areas also interest me very much :globe_with_meridians:
+* I've completed several data science projects and I'm working on more, with a view to specialising in machine learning :mag_right: 
+* I'm open to new opportunities so don't hesitate to get in touch :email: :smiley:
 
 ## :wrench: Tools and Technologies :computer:
-Python
-
-R
-
-SQL
-
-Tableau
-
-Excel
+* Python
+* R
+* SQL
+* Tableau
+* Excel
 
 ## Strongest Skills
 :busts_in_silhouette: Relationship Building
