@@ -2,9 +2,13 @@
 
 ## 👋 Hello! I'm Jon... :interrobang: How did I get here!?
 :runner: Before I started my data science journey I owned a successful fitness business
+
 :chart_with_upwards_trend: Tracking my website and digital marketing KPIs gave me a taste for data analytics
+
 :bar_chart: I found the process of tracking and analysing data fascinating and soon started taking courses on statistics, data analysis and data visualisation. 
+
 :arrow_up: I implemented a data driven approach to drive continuous improvements in my business. The results were excellent; business performance and client achievement went up and up
+
 :books: I decided data analytics was my future and enrolled on a Data Science course... which brings us to now...
 
 ## :question: Where am I going!?
