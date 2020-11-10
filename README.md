@@ -7,7 +7,7 @@
 * I implemented a data driven approach to drive continuous improvements in my business. The results were excellent; business performance and client achievement went up and up :arrow_up: 
 * I decided data analytics was my future and enrolled on a Data Science course :books: ... which brings us to now...
 
-## :question: Where am I going!?
+## :taxi: Where am I going:interrobang:
 * I'm looking for opportunities in data science, data analysis and data visualisation :loudspeaker: 
 
 * I have lots of experience in gleaning insight from data and using it to enhance business performance, streamline processes and improve customer service :briefcase:
