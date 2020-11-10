@@ -22,15 +22,22 @@
 
 ## :wrench: Tools and Technologies :computer:
 Python
+
 R
+
 SQL
+
 Tableau
+
 Excel
 
 ## Strongest Skills
 :busts_in_silhouette: Relationship Building
+
 :speech_balloon: Interpersonal and Communication
+
 :soccer: Teamwork
+
 :1234: Problem Solving
 
 ## Fun Facts
