@@ -32,7 +32,7 @@
 
 :heavy_division_sign: Problem Solving
 
-## Fun Facts
+## Additional Info / Fun Facts! 
 :muscle: I also coordinated fitness programs for the US Marine Corps on the largest Marine Corps base in the USA, tracked and analysed data related to individual and program success, led presentations and workshops.
 
 
